@@ -3,3 +3,5 @@ This repo is created for the sample react apps I create while trying to follow v
 
 ## Tutorials
 - [x] React Overview by Tania Rascia [[TUTORIAL]](https://www.taniarascia.com/getting-started-with-react/) [[IMPLEMENATION]](https://github.com/ashawe/learning-react/tree/master/overview)
+
+- [x] [Skip This] ~~Build a Web App with React by Glitch [[TUTORIAL]](https://glitch.com/glimmer/post/react-starter-kit/) [[WHY SKIP]](https://github.com/ashawe/learning-react/tree/glitch-react/)~~
