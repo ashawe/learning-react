@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ashawe/learning-react/static/css/main.53574754.chunk.css",
+    "main.js": "/ashawe/learning-react/static/js/main.116d70a4.chunk.js",
+    "main.js.map": "/ashawe/learning-react/static/js/main.116d70a4.chunk.js.map",
+    "runtime-main.js": "/ashawe/learning-react/static/js/runtime-main.3c29c566.js",
+    "runtime-main.js.map": "/ashawe/learning-react/static/js/runtime-main.3c29c566.js.map",
+    "static/js/2.1bbe048d.chunk.js": "/ashawe/learning-react/static/js/2.1bbe048d.chunk.js",
+    "static/js/2.1bbe048d.chunk.js.map": "/ashawe/learning-react/static/js/2.1bbe048d.chunk.js.map",
+    "index.html": "/ashawe/learning-react/index.html",
+    "precache-manifest.c84864f369e475b4c8a36f7eee186061.js": "/ashawe/learning-react/precache-manifest.c84864f369e475b4c8a36f7eee186061.js",
+    "service-worker.js": "/ashawe/learning-react/service-worker.js",
+    "static/css/main.53574754.chunk.css.map": "/ashawe/learning-react/static/css/main.53574754.chunk.css.map",
+    "static/js/2.1bbe048d.chunk.js.LICENSE.txt": "/ashawe/learning-react/static/js/2.1bbe048d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c29c566.js",
+    "static/js/2.1bbe048d.chunk.js",
+    "static/css/main.53574754.chunk.css",
+    "static/js/main.116d70a4.chunk.js"
+  ]
+}
