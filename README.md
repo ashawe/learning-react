@@ -7,3 +7,5 @@ This repo is created for the sample react apps I create while trying to follow v
 - [x] [Skip This] ~~Build a Web App with React by Glitch [[TUTORIAL]](https://glitch.com/glimmer/post/react-starter-kit/)~~ [[WHY SKIP]](https://github.com/ashawe/learning-react/tree/master/glitch-react/)
 
 - [ ] Intro to React (official react documentation) [[TUTORIAL]](https://reactjs.org/tutorial/tutorial.html) [[IMPLEMENTATION]](https://github.com/ashawe/learning-react/tree/master/official-react/)
+
+- [ ] Learning React.js (Linkedin Learning) [[TUTORIAL]](https://www.linkedin.com/learning/learning-react-js-5) [[IMPLEMENTATION]](https://github.com/ashawe/learning-react/tree/master/learning-react-js-5/)
